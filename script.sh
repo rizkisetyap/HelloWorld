@@ -1,0 +1,1 @@
+curl -X GET http://202.148.18.28:8080/eabsensisdd_api/eabsensi/report/K-1721
